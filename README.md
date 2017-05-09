@@ -1,4 +1,3 @@
-### <p align="center"><img width="150px" height="150px" src="https://gokulkrishh.github.io/demo-progressive-web-app/images/icons/android-chrome-192x192.png"></p>
 
 # [Progressive Web Application](https://demopwa.in)
 
@@ -11,7 +10,7 @@
 #### `Step 1` - clone the repo
   
 ```bash
-$ git clone https://github.com/gokulkrishh/demo-progressive-web-app
+$ git clone https://github.com/pradeepceb/ProgressiveWebApp
 ```
 
 #### `Step 2` - cd in the repo
@@ -72,7 +71,7 @@ In browser, open [http://localhost:3000](http://localhost:3000)
 
 #### License
 
-MIT © [Gokulakrishnan](https://github.com/gokulkrishh)
+(https://github.com/pradeepceb)
 
 <div align="center">
   <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
